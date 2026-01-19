@@ -1,6 +1,6 @@
-# 👋 Hi, I'm a Software Engineer
+# 👋 Hi
 
-I'm a Computer Engineer passionate about technology and continuous learning.
+I'm a Software Engineer passionate about technology and continuous learning.
 
 ## 🚀 What I do
 - Build and maintain **cloud-based microservices** in production environments  
